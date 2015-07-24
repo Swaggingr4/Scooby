@@ -1,13 +1,13 @@
 [
 {
-  "modid": "Scooby",
-  "name": "Scooby",
+  "modid": "TrekTurkClient",
+  "name": "Kanker",
   "description": "null",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["brudin"],
+  "authorList": ["Joow"],
   "credits": "",
   "logoFile": "",
   "screenshots": [],
